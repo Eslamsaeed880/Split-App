@@ -1,7 +1,5 @@
 # Workout Split App
 
-![Fitness Icon](https://img.icons8.com/color/96/000000/fitness.png) by [Icons8](https://icons8.com)
-
 A comprehensive Java application for creating, managing, and tracking detailed workout routines with exercise-specific tracking.
 
 ## Features
